@@ -33,8 +33,8 @@ from keras.callbacks import TensorBoard
 !pip3 install -q kaggle
 
 # enter your Kaggle credentionals here
-os.environ['KAGGLE_USERNAME']="suhird"
-os.environ['KAGGLE_KEY']="db94bce8dce366fb0e959e4ba49dedaf"
+os.environ['KAGGLE_USERNAME']="adit1821"
+os.environ['KAGGLE_KEY']="d6a7594d934636e1f3baccb401eaa1eb"
 
 # Root directory of the project
 ROOT_DIR = os.path.abspath('./lesson3-data')
